@@ -15,5 +15,7 @@ Software Engineering
 
 ## Contact
 nelson.david7876@gmail.com
+
 david.nelson1@maine.edu
+
 www.linkedin.com/in/david-nelson-8aa75a253
