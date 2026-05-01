@@ -12,6 +12,7 @@ Software Engineering
 ## Recent Projects
 - Mobile Arm Vision Controller
 - Academic Dropout Predictive Model
+- AI Training With Next-Generation Number Formats
 
 ## Contact
 nelson.david7876@gmail.com
